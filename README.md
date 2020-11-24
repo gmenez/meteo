@@ -2,7 +2,7 @@
 
 Ce projet vise à aborder la problématique d'intégration de services. 
 
-(meteo.jpg)
+![](meteo.jpg)
 
 Vous disposez d'un objet (ESP ou smartphone ou ?) capable de prendre des 
 mesures potentiellement intéressantes pour une thématique donnée, ici la météo :
