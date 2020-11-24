@@ -37,6 +37,8 @@ d'une connaissance globale
    comme par exemple:
    * (https://products.wolframalpha.com/simple-api/documentation/)
    
+**Utiliser d'autres flux pour améliorer "votre service" ! **
+   
 ## Focus point : CE QUI m'INTERESSE de vous voir étudier, essayer, critiquer ...
 
 L'intégration de services ... et la météo semble un bon prétexte !
