@@ -10,8 +10,11 @@ mesures potentiellement intéressantes pour une thématique donnée, ici la mét
   * un capteur d'humidité, 
   * un anémomètre ...
 
-Vous pourriez vous faire votre mini station météo MAIS vous pourriez aussi
-notamment dans le but d'améliorer vos affichages/prédictions/"émettre une alerte"/réguler un arrosage/ ...
+Vous pourriez vous faire votre mini station météo MAIS SI vous pouviez accéder 
+à d'autres données vous pourriez améliorer vos affichages/prédictions
+/"émettre une alerte"/réguler un arrosage/ ...
+
+Vous pourriez :
 
 1) Bénéficier des services météo mis à disposition par des plateformes 
 spécialisées et proposant des API d'accés.
@@ -34,9 +37,11 @@ d'une connaissance globale
    comme par exemple:
    * (https://products.wolframalpha.com/simple-api/documentation/)
    
-## Focus point : CE QUI m'INTERESSE de vous voir étudier
-L'intégration de services et la météo semble un bon prétexte !
+## Focus point : CE QUI m'INTERESSE de vous voir étudier, essayer, critiquer ...
+
+L'intégration de services ... et la météo semble un bon prétexte !
 
 (https://www.ibm.com/blogs/internet-of-things/incorporating-weather-data-into-iot/)
 
 (https://datasmart.ash.harvard.edu/news/article/how-cities-are-using-the-internet-of-things-to-map-air-quality-1025)
+
