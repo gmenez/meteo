@@ -58,6 +58,7 @@ Si vous avez des pigeons, vous pouvez aussi les utiliser :-)
 
 Il existe aussi des plateformes qui permettent de "participer" à la construction 
 d'une connaissance globale
+
 * (https://weathercloud.net/)
 
 Vous pourriez placer votre projet comme un concurrent ... et dans ce
