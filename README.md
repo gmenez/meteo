@@ -20,6 +20,7 @@ mesures potentiellement intéressantes pour une thématique donnée, ici la mét
 Vous pourriez vous faire votre mini station météo des données à votre
 localisation.
 
+
 ## Seconde phase
 Vous avez des amis/collègues capables de se joindre à "votre" réseau
 et vous pouvez afficher leurs données sur votre dashboard.
@@ -27,10 +28,15 @@ et vous pouvez afficher leurs données sur votre dashboard.
 Votre "communauté d'amis" se trouve sur toute la planète et eux aussi
 peuvent utiliser ce dashboard.
 
+![](netatmo.png)
+
+* (https://weathermap.netatmo.com/)
+
+
 A ce stade, vous pourriez produire une API qui permettrait d'accéder à
 vos connaissances comme par exemple:
    
-   * (https://products.wolframalpha.com/simple-api/documentation/)
+* (https://products.wolframalpha.com/simple-api/documentation/)
 
 ## Troisième phase
 Vous aimeriez pouvoir intégrer la météo de certains lieux où vous
