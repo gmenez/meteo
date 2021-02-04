@@ -6,6 +6,9 @@ La météo semble un bon prétexte et en tout cas c'est un réel challenge
 
 (https://www.ibm.com/blogs/internet-of-things/incorporating-weather-data-into-iot/)
 
+Visiblement tendance !
+
+(https://docs.microsoft.com/fr-fr/azure/iot-hub/iot-hub-weather-forecast-machine-learning)
 
 ![](meteo.jpg)
 
